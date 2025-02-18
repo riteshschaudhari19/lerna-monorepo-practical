@@ -1,5 +1,5 @@
 {
-  "name": "@indus/temp-lib",
+  "name": "@indussoft/temp-lib",
   "version": "0.0.1",
   "description": "dfd",
   "keywords": [
@@ -8,7 +8,7 @@
   "author": "Ritesh Chaudhari <riteshschaudhari19@gmail.com>",
   "homepage": "https://github.com/riteshschaudhari19/lerna-monorepo-practical#readme",
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "lib/index.js", 
   "directories": {
     "lib": "lib",
     "test": "__tests__"
